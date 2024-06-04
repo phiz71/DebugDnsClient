@@ -23,3 +23,5 @@ io.vertx.core.VertxException: DNS query timeout for google.com.
 If I'm using 8.8.8.8 as DNS server, it works fine with `lookup` but not with `lookup4` or `lookup6`.
 
 Setting Recursion Desired to true or false doesn't change anything.
+
+Updated
